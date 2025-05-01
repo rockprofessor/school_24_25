@@ -1,8 +1,3 @@
----
-layout: default
-title: ""
----
-
 # Willkommen im Schuljahr 2024/25
 
 Diese Seite soll euch liebe Schüler:innen und Eltern helfen, den Überblick über
