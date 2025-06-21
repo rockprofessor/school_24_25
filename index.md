@@ -1,5 +1,7 @@
 # Willkommen im Schuljahr 2024/25
 
+![Keimgassen Logo](logo.jpg)
+
 Diese Seite soll euch liebe Schüler:innen und Eltern helfen, den Überblick über
 die Schuljahresplanung zu behalten. Hier findet ihr alle wichtigen Informationen
 zu den Klassen.
